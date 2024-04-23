@@ -1,11 +1,8 @@
-## TM01
-# 동물 구분 하는 웹 앱입니다.  
-
-# 기능
-1. cat, dog, pig, fox, wolf, rabbit을 구분해줍니다.
+# TM01
+1. cat, dog, pig, fox, wolf, rabbit을 구분해줍니다.  
 2. 웹 카메라 나오는 화면 밑에 유사도를 나타내도록 설정하였습니다.
 
-# 사용한 기술
+# 사용한 언어
 1. Html
 2. JavaScript
 
